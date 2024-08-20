@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-dasharray: 0 0 11.79 11.79;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #00ff1c;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #27aae1;
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g>
+    <ellipse class="cls-4" cx="50.15" cy="49.58" rx="49.2" ry="48.36"/>
+    <ellipse class="cls-1" cx="50.15" cy="49.58" rx="49.2" ry="48.36">
+    <animateTransform attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        from="0 50 50"
+        to="360 50 50"
+        dur="10s"
+        repeatCount="indefinite" />
+    </ellipse>
+  </g>
+  <ellipse class="cls-3" cx="52.19" cy="48.23" rx="22.71" ry="21.78"/>
+  <polygon class="cls-2" points="15.98 53.68 10.81 53.68 6.32 56.27 3.74 60.75 3.74 65.93 6.32 70.41 10.81 73 15.98 73 20.47 70.41 23.05 65.93 23.05 60.75 20.47 56.27 15.98 53.68">
+<animateTransform attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        from="360 50 50"
+        to="0 50 50"
+        dur="50s"
+        repeatCount="indefinite" />
+  </polygon>
+</svg>
